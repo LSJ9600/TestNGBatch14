@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb224a56-83be-455c-b3db-3619bad89a28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/dependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/enableDisable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/testNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/testNGExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/ExamplesAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/HardAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/SoftAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/dataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/implementationOfListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/loginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/review/Notes" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I5o92PUE4CztVmtGfRZTX7STIi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.dataProvider">
+    <configuration name="hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01.hw" />
+      <module name="testNGBasicBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/LubnaShelia/eclipse-workspace/testNGBasicBatch14/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNGBasicBatch14" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNGBasicBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class03" />
+      <option name="MAIN_CLASS_NAME" value="class03.dataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testNGAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNGBasicBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class01" />
+      <option name="MAIN_CLASS_NAME" value="class01.testNGAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testNGExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNGBasicBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class01" />
+      <option name="MAIN_CLASS_NAME" value="class01.testNGExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.dataProvider" />
+        <item itemvalue="TestNG./Users/LubnaShelia/eclipse-workspace/testNGBasicBatch14/testng.xml" />
+        <item itemvalue="Application.hw" />
+        <item itemvalue="TestNG.testNGExample" />
+        <item itemvalue="TestNG.testNGAnnotations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb224a56-83be-455c-b3db-3619bad89a28" name="Changes" comment="" />
+      <created>1669480650319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669480650319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
